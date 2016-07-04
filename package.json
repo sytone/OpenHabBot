@@ -1,0 +1,15 @@
+{
+  "name": "openhabbot",
+  "version": "1.0.0",
+  "description": "This is a bot that interacts with OpenHab for actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Bullen",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.1"
+  }
+}
